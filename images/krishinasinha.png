@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="900" viewBox="0 0 900 900">
+<defs><radialGradient id="b"><stop stop-color="#1a8cff"/><stop offset="1" stop-color="#07101b"/></radialGradient></defs>
+<rect width="900" height="900" fill="url(#b)"/>
+<circle cx="450" cy="330" r="150" fill="#d9e5f2"/>
+<path d="M210 790c25-190 125-275 240-275s215 85 240 275" fill="#d9e5f2"/>
+<text x="450" y="850" text-anchor="middle" fill="white" font-family="Arial" font-size="28" font-weight="700">REPLACE WITH YOUR PHOTO</text>
+</svg>
